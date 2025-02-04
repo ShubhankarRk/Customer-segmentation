@@ -1,5 +1,6 @@
 # Customer Segmentation Analysis
 
+Link to the dataset : https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
 <img width="660" alt="Screenshot 2025-02-04 at 13 22 52" src="https://github.com/user-attachments/assets/691823d0-dbd3-47e3-aeb0-797ffdfffc91" />
 
