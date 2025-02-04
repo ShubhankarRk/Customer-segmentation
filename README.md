@@ -1,4 +1,4 @@
-# Customer-segmentation
+# Customer Segmentation Analysis
 
 
 <img width="660" alt="Screenshot 2025-02-04 at 13 22 52" src="https://github.com/user-attachments/assets/691823d0-dbd3-47e3-aeb0-797ffdfffc91" />
